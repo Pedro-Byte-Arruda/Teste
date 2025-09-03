@@ -1,0 +1,27 @@
+.body{
+    display: flex;
+    background-color: #ff0000;
+}
+
+.AlternativaUm{
+    width: 250px;
+    height: 75px;
+    background-color: red;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: aqua;
+    border-style: solid;
+    text-align: center;
+    text-decoration-style: none;
+    
+}
+.AlternativaUm:hover{
+    width: 250px;
+    height: 75px;
+    background-color: rgb(114, 4, 4);
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: aqua;
+    border-style: solid;
+    text-align: center;
+}
